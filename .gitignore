@@ -38,3 +38,6 @@ temp/
 # Local config
 .env
 .env.local
+
+# Internal documentation (not for public repo)
+PUBLISHING.md
